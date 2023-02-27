@@ -28,7 +28,7 @@ I am a student at the University of Bordeaux  🍇 🍷
 - 🔭 I’m currently working on EtuInvest
 - 🌱 I’m currently learning software engineering
 - 👯 I’m looking to collaborate on a React-Native project
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/nicolas-dubuisson-b4b856226/))
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-dubuisson-b4b856226/)
 - ⚡ Fun fact: I took pictures of all the Android statues on the Google campus in California
 
 ---
