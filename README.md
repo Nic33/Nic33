@@ -74,4 +74,20 @@ I am a student at the University of Bordeaux  🍇 🍷
 
 </div>
 
+---
 
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nic33&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nic33&layout=compact&theme=vision-friendly-dark)](https://github.com/Nic33/github-readme-stats)
+
+---
+
+<div align="center">
+  
+  <a href="https://www.nicolasdubuisson.fr/">
+    <img src="https://media.giphy.com/media/MZ9nZGQn1nqBG/giphy.gif" width="200"/>
+  </a>
+  
+</div>
