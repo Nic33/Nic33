@@ -1,6 +1,5 @@
 <h1 align ="center">
   Hello
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
   
 <div align="center">
@@ -25,7 +24,7 @@
 
 I am a student at the University of Bordeaux  🍇 🍷
 
-- 🔭 I’m currently working on EtuInvest
+- 🔭 I’m currently working on a new version of my app LeakyWheel 
 - 🌱 I’m currently learning software engineering
 - 👯 I’m looking to collaborate on a React-Native project
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-dubuisson-b4b856226/)
