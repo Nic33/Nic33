@@ -4,7 +4,6 @@
 </h1>
   
 <div align="center">
-  <h2> Contact : </h2>  
   <div id="badges">
     <a href="https://www.linkedin.com/in/nicolas-dubuisson-b4b856226/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
